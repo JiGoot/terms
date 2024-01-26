@@ -1,4 +1,4 @@
-<img src="https://github.com/Dlvnkenye/terms/blob/main/logo520.png" width="128" height="128">
+<img src="https://github.com/JiGoot/terms/blob/main/logo520.png" width="128" height="128">
 
 # Directives de la communauté JiGoot
 *Dernière mise à jour* : 2 octobre 2023
