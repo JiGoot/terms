@@ -25,3 +25,9 @@
 2.3 The merchant **owner and manager** should be aware of the potential risk and threats to their data security and privacy, such as phishing, malware, identity theft, fraud, etc. They **should report any suspicious or unauthorized activity on their account or device to JiGoot immediately**.
 
 2.4 The merchant **owner and manager, should review and understand the terms and policies that govern their relationship with JiGoot**, such as the Merchant terms of service, the merchant Privacy policy, the courier background check FAQ, JiGoot community guideline, etc. **They agree to stay informed of any updates or changes to these terms and policies**.
+
+
+
+### Information
+Publication date **.**.2023
+Effective date  **.**.2023
