@@ -26,3 +26,26 @@ inappropriate.
 1.8 ***No member is allowed to share their account or login credentials with any third party***.
 
 1.9 ***Members must provide accurate and honest information on the platform***. Providing false or misleading information is against our platform rules. 
+
+
+
+
+
+
+Order Updates and Payment Policy
+1. Payment Per Order Each client is entitled to make only one payment per order. This policy is designed to simplify the transaction process and ensure financial consistency. By limiting payments to one per order, we reduce the risk of errors and discrepancies that can arise from multiple payment transactions.
+
+2. Payment Status The payment status for an order can be categorized as:
+
+Pending: Payment has not been completed.
+Paid: Payment has been successfully processed.
+Cancelled: Payment has been cancelled, and the order will not be processed.
+3. Payment Methods Clients have the option to pay using the following methods:
+
+Pay on Placement (POP): Payment is made upfront at the time of order placement.
+Pay on Delivery (POD): Payment is made upon delivery of the order.
+4. Order Adjustments and Subtotal To mitigate and reduce the risk of financial inconsistencies, order adjustments will not lead to the order subtotal exceeding the original subtotal. Once an order is paid, it is too late to make adjustments that would exceed the original subtotal, and any additions would need to be made in a separate order. This ensures that the payment reflects the final order details accurately.
+
+5. Consent for Adjustments If an order has not yet been paid or has a POD payment method, adjustments can lead to the new subtotal exceeding the original one. However, such adjustments require the sole consent of the client. This consent must be explicitly provided and documented to ensure transparency and agreement on the updated charges.
+
+By agreeing to these terms, the client acknowledges and accepts the outlined policies regarding order updates and payment. These policies are in place to provide a clear, consistent, and fair transaction process for all parties involved.
