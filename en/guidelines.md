@@ -32,7 +32,8 @@ inappropriate.
 
 
 
-Order Updates and Payment Policy
+**Order Updates and Payment Policy**
+------------------------------------
 1. Payment Per Order Each client is entitled to make only one payment per order. This policy is designed to simplify the transaction process and ensure financial consistency. By limiting payments to one per order, we reduce the risk of errors and discrepancies that can arise from multiple payment transactions.
 
 2. Payment Status The payment status for an order can be categorized as:
@@ -49,3 +50,42 @@ Pay on Delivery (POD): Payment is made upon delivery of the order.
 5. Consent for Adjustments If an order has not yet been paid or has a POD payment method, adjustments can lead to the new subtotal exceeding the original one. However, such adjustments require the sole consent of the client. This consent must be explicitly provided and documented to ensure transparency and agreement on the updated charges.
 
 By agreeing to these terms, the client acknowledges and accepts the outlined policies regarding order updates and payment. These policies are in place to provide a clear, consistent, and fair transaction process for all parties involved.
+
+
+Certainly, here's a policy section that addresses the requirements and potential scenarios related to order delivery and unreachable clients:
+
+---
+
+**Order Delivery and Unreachable Clients**
+------------------------------------------
+1. **Responsibility for Unreachable Clients:**
+   - The supplier and the courier hereby agree to share responsibility for any losses incurred when a delivery cannot be completed due to the client being unreachable.
+
+2. **Return Procedure:**
+   - In the event that a client is unreachable and the delivery cannot be completed, it is the responsibility of the courier to promptly return the order to the supplier.
+
+3. **Guaranteed Order-Based Payment:**
+   - To incentivize compliance with the return procedure, the courier will receive a guaranteed order-based payment when an order is returned to the supplier, regardless of whether the delivery was successfully completed.
+
+4. **Failure to Return Orders:**
+   - If the courier fails to return an order to the supplier as required under this policy, it will be considered a breach of their contractual obligations.
+   - Consequences for such breaches may include:
+     - Reduction of future assignments.
+     - Suspension of delivery privileges.
+     - Financial penalties.
+     - Legal action to recover any resulting losses incurred by the supplier or the delivery platform.
+   
+5. **Investigation and Communication:**
+   - Before imposing any penalties or consequences, the supplier and the delivery platform will conduct a thorough investigation into the reasons for the courier's failure to return the order.
+   - Open communication channels will be maintained to address any issues or concerns raised by the courier.
+
+6. **Performance Monitoring:**
+   - The performance of couriers will be regularly monitored and evaluated, including compliance with return procedures.
+   - Feedback mechanisms will be implemented to identify and address any recurring issues or shortcomings.
+
+7. **Contract Termination:**
+   - In cases of repeated or egregious breaches of this policy, the supplier and the delivery platform reserve the right to terminate the contract with the courier, in accordance with the terms of the agreement.
+
+---
+
+This policy section outlines the responsibilities of both the supplier and the courier regarding unreachable clients, provides incentives for compliance, and establishes consequences for non-compliance, including the scenario where the courier fails to return the order despite the agreed-upon terms and the guaranteed order-based payment.
