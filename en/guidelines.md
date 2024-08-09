@@ -6,6 +6,13 @@
 </br>
 *<p align="center">JiGoot Community Guidelines is intended to help regulate human interactions and make experiences in JiGoot Platform feel safe, respectful, and positive. While providing the basis for behavior we expect from all,  we ensure that everybody in JiGoot's community always feels safe and welcome.</p>*
 *<p align="center"> We update our guidelines regularly to address relevant behavior and risks.</p>*
+
+Our commitment to ethical business and integrity, like our commitment to innovation, is non-negotiable. 
+We are committed to having a corporate compliance culture. This Code of Conduct helps us meet that 
+commitment. I appreciate you following the principles in our Code of Conduct and living our values. Simply 
+put, we will compete and succeed—fairly and honestly—through our passion, mutual respect, innovation, 
+and superior performance, and never through unethical or illegal business practices.
+
 </br>
 </br>
 1.1. JiGoot Community Guidelines apply to all its members, including but not limited to customers, delivery agents, owners, managers and JiGoot employees and staff. ***Failing to follow any of the terms in these guidelines constitutes a breach of your agreement*** and may result in suspension, termination, deletion of your account, revocation or reporting to the relevant authorities.
