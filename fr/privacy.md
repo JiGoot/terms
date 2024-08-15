@@ -57,6 +57,6 @@ We may update this Privacy Policy periodically. Users will be notified of signif
 **8. Contact Us**
 
 If you have any questions or concerns about this Privacy Policy, please don't hesitate to contact us at 
-+243859420448
++243 859420448
 jigoot.dev@gmail.com.
 
