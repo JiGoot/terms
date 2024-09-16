@@ -68,7 +68,3 @@ If you have any questions or concerns regarding these Terms and Conditions, plea
 **14. Termination**
 
 JiGoot reserves the right to suspend or terminate your account or access to the Platform at our discretion, including for violations of these Terms and Conditions.
-
----
-
-Feel free to adjust any section to better fit your business model or legal requirements.
