@@ -1,4 +1,4 @@
-
+<img src="https://github.com/JiGoot/terms/blob/main/logo520.png" width="128" height="128">
 
 # Privacy Policy
 
@@ -32,8 +32,7 @@ We may share your information in the following circumstances:
 - **For Legal Reasons:** If required by law or to protect our rights, property, or safety, or that of others.
 - **Business Transfers:** In connection with any merger, acquisition, or sale of all or a portion of our business.
 
-### 5. Data Security**
-
+### 5. Data Security
 We implement reasonable measures to protect your information from unauthorized access, use, or disclosure. However, no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee absolute security.
 
 ### 6. Your Rights and Choices
