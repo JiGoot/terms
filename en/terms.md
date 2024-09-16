@@ -1,8 +1,8 @@
-Sure, I can help draft a basic outline for the terms and conditions for JiGoot. This will include general clauses typically found in such agreements. You should tailor it to fit your specific needs and legal requirements, and it's always a good idea to have a legal professional review it before finalizing.
+<img src="https://github.com/JiGoot/terms/blob/main/logo520.png" width="128" height="128">
 
----
+# Terms and Conditions
+*Last updated* : 15th september 2024
 
-**Terms and Conditions**
 
 **1. Introduction**
 
