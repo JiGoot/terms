@@ -1,61 +1,61 @@
-**Privacy Policy for JiGoot Mobile App Users**
 
-Last Updated: [Date]
 
-**Introduction**
+# Privacy Policy
 
-Welcome to JiGoot, your go-to platform for seamless online food and beverages ordering and delivery. Operated by [JiGoot Company Name], our mobile app is designed to make your dining experience enjoyable and hassle-free. At JiGoot, we prioritize and respect the privacy of our users. This Privacy Policy outlines the personal information we collect, how we use it, and the measures we take to safeguard your privacy.
+*Last updated: 15th September 2024*
 
-**1. Information We Collect**
+### 1. Introduction
+Welcome to JiGoot! We are committed to protecting your privacy and handling your personal information with care. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our food delivery platform. By using JiGoot, you consent to the practices described in this policy.
 
-- **User Account Information:** When you create a JiGoot account via our mobile app, we may collect personal information such as your name, last name, email address, gender, date of birth, phone number, and password.
+### 2. Information We Collect
+We may collect the following types of information:
 
-- **2. How We Use Your Information**
+- **Personal Information:** Name, email address, phone number, delivery address, payment information, and any other details you provide when creating an account or placing an order.
+- **Transaction Information:** Details about your orders, payments, and delivery preferences.
+- **Usage Data:** Information about how you use JiGoot, including IP address, browser type, device information, and browsing activity on our platform.
+- **Location Data:** Information about your location to facilitate order delivery and improve our services.
 
-We use the collected information for the following purposes:
+### 3. How We Use Your Information
+We use the information we collect for the following purposes:
 
-- **Account Management:** To create and manage your user account.
+- **Order Processing:** To process and manage your orders, including payments and deliveries.
+- **Account Management:** To create and maintain your account, communicate with you, and provide customer support.
+- **Service Improvement:** To analyze usage patterns and improve JiGoot’s features and performance.
+- **Marketing:** To send you promotional information and updates about our services, if you have opted to receive them.
+- **Legal Compliance:** To comply with legal obligations and resolve disputes.
 
-- **Order Fulfillment:** To process and deliver your orders efficiently.
+### 4. How We Share Your Information
+We may share your information in the following circumstances:
 
-- **Communication:** To send important updates, notifications, and promotional offers tailored to your preferences.
+- **With Suppliers and Delivery Personnel:** To fulfill your orders and provide delivery services.
+- **With Service Providers:** Third-party vendors who assist us with payment processing, data analytics, and other services.
+- **For Legal Reasons:** If required by law or to protect our rights, property, or safety, or that of others.
+- **Business Transfers:** In connection with any merger, acquisition, or sale of all or a portion of our business.
 
-- **Customer Support:** To provide assistance and address any queries or issues you may encounter.
+### 5. Data Security**
 
-- **Improvement of Services:** To enhance our mobile app, services, and overall user experience.
+We implement reasonable measures to protect your information from unauthorized access, use, or disclosure. However, no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee absolute security.
 
-- **Legal Compliance:** To comply with applicable laws and regulations.
+### 6. Your Rights and Choices
+You have the following rights regarding your personal information:
 
-**3. Information Sharing and Disclosure**
+- **Access and Correction:** You may request access to or correction of your personal information held by us.
+- **Opt-Out:** You can opt out of receiving marketing communications from us by following the unsubscribe instructions provided in those communications.
+- **Deletion:** You may request the deletion of your account and personal information, subject to certain legal and contractual restrictions.
 
-We may share your information under the following circumstances:
+### 7. Cookies and Tracking Technologies
+JiGoot uses cookies and similar tracking technologies to enhance your experience on our platform. Cookies are small files stored on your device that help us remember your preferences and improve our services. You can control cookie settings through your browser.
 
-- **With Suppliers:** Information necessary for order fulfillment is shared with our restaurant and supplier partners.
+### 8. Third-Party Links
+Our platform may contain links to third-party websites. We are not responsible for the privacy practices or content of those sites. We encourage you to review their privacy policies before providing any personal information.
 
-- **With Third-Party Service Providers:** We may engage third-party service providers to assist in business operations, such as payment processing and delivery services.
+### 9. Children’s Privacy
+JiGoot is not intended for use by individuals under the age of 18. We do not knowingly collect or solicit personal information from children. If we become aware that we have collected personal information from a child, we will take steps to delete that information.
 
-- **Legal Compliance:** We may disclose information when required by law or in response to legal requests.
+### 10. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Changes will be effective immediately upon posting on our platform. Your continued use of JiGoot after any changes constitutes your acceptance of the revised policy.
 
-**4. Data Security**
+### 11. Contact Us
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [jigoot.dev@gmail.com](mailto:jigoot.dev@gmail.com).
 
-We implement robust security measures to protect your information against unauthorized access, alteration, disclosure, or destruction. We use encryption, secure protocols, and regularly update our security practices to ensure the safety of your data.
 
-**5. Your Choices**
-
-- **Account Information:** You can conveniently review and update your account information through the JiGoot mobile app.
-
-- **Communications:** You have the option to opt out of promotional communications, while important service-related messages will still be sent to keep you informed.
-
-**6. Cookies and Tracking Technologies**
-
-JiGoot uses cookies and similar technologies within our mobile app to enhance your user experience, analyze trends, and gather information about your interactions with the platform.
-
-**7. Changes to this Privacy Policy**
-
-We may update this Privacy Policy periodically. Users will be notified of significant changes. Continued use of the JiGoot mobile app after such changes constitutes acceptance of the updated policy.
-
-**8. Contact Us**
-
-If you have any questions or concerns about this Privacy Policy, please don't hesitate to contact us at [jigoot.dev@gmail.com].
-
-**End of Privacy Policy**
