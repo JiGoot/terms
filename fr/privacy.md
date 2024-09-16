@@ -1,7 +1,6 @@
 <img src="https://github.com/JiGoot/terms/blob/main/logo520.png" width="128" height="128">
 
-**Politique de Confidentialité**
-
+# Politique de Confidentialité
 *Dernière mise à jour : 15 septembre 2024*
 
 ### 1. Introduction
