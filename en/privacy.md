@@ -1,7 +1,6 @@
 <img src="https://github.com/JiGoot/terms/blob/main/logo520.png" width="128" height="128">
 
 # Privacy Policy
-
 *Last updated: 15th September 2024*
 
 ### 1. Introduction
