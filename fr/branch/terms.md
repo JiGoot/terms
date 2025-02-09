@@ -1,7 +1,7 @@
 <img src="https://github.com/JiGoot/terms/blob/main/logo520.png" width="128" height="128">
 
 # Conditions Générales de Succursale
-*Last updated*: January 3rd, 2024
+*Dernière mise à jour : 9 janvier 2025*
 </br>
 </br>
 
