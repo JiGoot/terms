@@ -1,4 +1,9 @@
-# CONDITIONS GÉNÉRALES DE LA SUCCURSALE
+<img src="https://github.com/JiGoot/terms/blob/main/logo520.png" width="128" height="128">
+
+# Conditions Générales de Succursale
+*Last updated*: January 3rd, 2024
+</br>
+</br>
 
 Ces Conditions Générales de la Succursale (« Conditions de la Succursale ») régissent l’exploitation d’une Succursale d’un Fournisseur sur la plateforme JGoot. Elles font partie intégrante de l’Accord du Fournisseur. En exploitant une Succursale sur la plateforme, le Fournisseur accepte non seulement de se conformer à ces conditions, mais s’engage également à ce que sa Succursale et son personnel les respectent.  
 
