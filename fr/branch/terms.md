@@ -1,1 +1,92 @@
+# CONDITIONS GÉNÉRALES DE LA SUCCURSALE
+
+Ces Conditions Générales de la Succursale (« Conditions de la Succursale ») régissent l’exploitation d’une Succursale d’un Fournisseur sur la plateforme JGoot. Elles font partie intégrante de l’Accord du Fournisseur. En exploitant une Succursale sur la plateforme, le Fournisseur accepte non seulement de se conformer à ces conditions, mais s’engage également à ce que sa Succursale et son personnel les respectent.  
+
+
+
+## 1. Exploitation de la Succursale
+
+1.1. Un Fournisseur doit exploiter au moins une Succursale sur la plateforme.  1.2. Une Succursale est une extension du Fournisseur et opère sous son nom.  1.3. La Succursale est responsable de la réception, du traitement et de l’exécution des commandes passées via la plateforme.  1.4. Le Fournisseur est entièrement responsable des actions et obligations de sa Succursale.  
+
+
+## 2. Gestion des Commandes
+
+2.1. **Acceptation des Commandes :** La Succursale doit confirmer ou refuser une commande dans les plus brefs délais. Les commandes non traitées peuvent être automatiquement annulées, ce qui affectera la réputation de la Succursale sur la plateforme. Il est recommandé de contacter le client pour confirmation avant d’accepter une commande.  2.2. **Traitement des Commandes :** La Succursale doit préparer les commandes dans le délai estimé communiqué aux clients. Elle peut ajuster ce délai pour optimiser le processus de livraison et l’expérience client.  2.3. **Modification des Commandes :** La Succursale ne peut modifier les quantités ou supprimer des articles d’une commande qu’avec le consentement explicite du client. Une preuve de ce consentement doit être conservée pendant au moins **48 heures** en cas de litige.  2.4. **Retrait des Commandes :** Les commandes doivent être prêtes à l’heure prévue, que ce soit pour un retrait par le client ou pour une livraison assurée par les livreurs de la plateforme.  
+2.5. **Annulations :**  
+
+- Une Succursale ne peut annuler une commande que dans des circonstances exceptionnelles (ex. : indisponibilité des articles, problèmes opérationnels) et doit en informer immédiatement la plateforme.  
+- Des annulations excessives peuvent entraîner des pénalités ou une suspension de la plateforme.  
+
+2.6. **Commandes Non Exécutées :**  
+
+- En cas de non-exécution d’une commande, la Succursale en assume l’entière responsabilité.  
+- Si un livreur de la plateforme ne parvient pas à joindre le client pour la livraison en cas de paiement à la livraison (COD), la Succursale doit récupérer la commande. Elle reconnaît les pertes potentielles encourues et ne tiendra ni la plateforme ni le livreur responsable. Si la commande est altérée ou détruite lors du retour, le livreur sera tenu pour responsable du coût de la commande.  
+
+---
+
+## **3. Logistique de Livraison**  
+
+3.1. Une Succursale peut choisir entre la **livraison via la plateforme** ou la **livraison en propre**, selon la disponibilité et la capacité opérationnelle.  
+3.2. **Livraison via la Plateforme :** La Succursale doit s’assurer que les commandes sont correctement emballées et prêtes pour le ramassage par le livreur assigné.  
+3.3. **Livraison en Propre :** Si une Succursale choisit la livraison en propre, elle est seule responsable d’assurer la livraison dans le délai convenu avec le client.  
+3.4. **Paiement à la Livraison (COD) :** Le COD est uniquement disponible pour les commandes livrées via la plateforme. Les commandes en auto-livraison doivent être prépayées via la plateforme.  
+
+---
+
+## **4. Paiements**  
+
+4.1. Les paiements aux Succursales sont effectués via mobile money.  
+4.2. Une Succursale peut demander un paiement en enregistrant sa méthode de paiement préférée sur la plateforme.  
+4.3. Une seule demande de paiement peut être en cours à la fois.  
+4.4. Chaque Succursale peut définir un **code PIN Succursale** requis pour effectuer des opérations financières critiques, telles que l’ajout, la modification ou la suppression d’une méthode de paiement et la demande de paiement. Ce code PIN sécurise les transactions financières, notamment lorsque plusieurs employés utilisent les appareils de la Succursale.  
+4.5. Les demandes de paiement sont traitées dans un délai de **1 à 3 jours ouvrables**. Les demandes effectuées pendant les week-ends ou jours fériés peuvent prendre plus de temps. Des retards peuvent également survenir en raison de facteurs externes (ex. : troubles sociaux, conditions climatiques, problèmes techniques).  
+4.6. La plateforme se réserve le droit de déduire tous les coûts liés aux commandes, y compris les remboursements, pénalités ou ajustements, avant d’effectuer un paiement.  
+4.7. La Succursale est responsable de l’exactitude des informations de paiement fournies.  
+4.8. Tout litige concernant un paiement doit être signalé dans un délai de **7 jours** suivant la transaction.  
+
+---
+
+## **5. Exigences en Matière d’Emballage**  
+
+5.1. La Succursale doit emballer les commandes de manière sécurisée afin de garantir la qualité et la sécurité des aliments lors de la livraison ou du retrait. L’emballage doit prévenir toute altération, fuite ou renversement.  
+5.2. La plateforme peut imposer des directives spécifiques en matière d’emballage pour améliorer l’expérience client.  
+5.3. Tout non-respect des directives d’emballage peut entraîner des pénalités ou des restrictions sur l’exploitation de la Succursale sur la plateforme.  
+
+---
+
+## **6. Taxes et Conformité**  
+
+6.1. Le Fournisseur, via sa Succursale, est considéré comme le vendeur et est responsable de la collecte et du versement de la **TVA** et des autres taxes applicables conformément aux lois locales.  
+6.2. Le Fournisseur doit s’assurer que les taxes applicables sont correctement calculées et incluses dans les prix affichés sur la plateforme.  
+6.3. Le Fournisseur accepte de conserver des registres adéquats des transactions fiscales et de se conformer à toutes les obligations de déclaration fiscale requises par la loi.  
+6.4. La plateforme n’est pas responsable des obligations fiscales du Fournisseur et ne pourra être tenue responsable d’une quelconque non-conformité.  
+
+---
+
+## **7. Remboursements et Litiges**  
+
+7.1. La plateforme peut traiter des remboursements en cas d’erreur de commande, de mauvaise qualité des produits ou de non-exécution par la Succursale.  
+7.2. Les remboursements peuvent être déduits des revenus de la Succursale si le problème est jugé être de sa faute.  
+7.3. Tout litige concernant un remboursement doit être soulevé dans un délai de **48 heures** après l’exécution de la commande.  
+
+---
+
+## **8. Confidentialité**  
+
+8.1. La Succursale doit garder confidentielles toutes les informations relatives à la plateforme, y compris, mais sans s’y limiter, les données clients, les structures tarifaires et les processus opérationnels.  
+8.2. Toute violation de la confidentialité peut entraîner des pénalités, une suspension ou des poursuites judiciaires.  
+
+---
+
+## **9. Modifications**  
+
+9.1. La plateforme se réserve le droit de modifier ces Conditions de la Succursale à tout moment.  
+9.2. Toute modification sera communiquée au Fournisseur, et la poursuite de l’exploitation de la Succursale sur la plateforme vaudra acceptation des nouvelles conditions.  
+
+---
+
+## **10. Résiliation et Suspension**  
+
+10.1. La plateforme peut suspendre ou résilier l’accès d’une Succursale en cas de non-respect de ces conditions.  
+10.2. Un Fournisseur peut demander la désactivation d’une Succursale, mais toutes les obligations en suspens (ex. : commandes en attente, paiements, litiges) doivent être réglées avant la désactivation.  
 
