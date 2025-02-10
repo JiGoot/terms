@@ -1,6 +1,6 @@
 <img src="https://github.com/JiGoot/terms/blob/main/logo520.png" width="128" height="128">
 
-# JiGoot Supplier Naming Convention
+# Supplier Naming Convention
 *Last updated*: January 3rd, 2024
 </br>
 </br>
