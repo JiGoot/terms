@@ -1,6 +1,6 @@
 <img src="https://github.com/JiGoot/terms/blob/main/logo520.png" width="128" height="128">
 
-# Conditions Générales des Marchands
+# Conditions Générales de Succursale
 *Mise à jour : 15 Fevrier 2025*
 </br>
 </br>
