@@ -1,4 +1,4 @@
-<img src="https://github.com/JiGoot/terms/blob/main/logo520.png" width="128" height="128">
+<img src="https://github.com/JiGoot/terms/blob/main/logo520.png" width="80" height="80">
 
 # Conditions Générales
 *Dernière mise à jour : 15 septembre 2024*
